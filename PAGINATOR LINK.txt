@@ -1,0 +1,1 @@
+https://github.com/ShulaevIvan/django_pagi
